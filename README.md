@@ -26,3 +26,6 @@ This project analyzes the Spotify Tracks dataset using SQL. The project contains
 - Easy Queries (8)
 - Medium Queries (6)
 - Hard Queries (4)
+## Files
+- `spotify_project.pdf` –  Report with queries, results, and observations
+- `dataset.csv` – Dataset used for analysis
