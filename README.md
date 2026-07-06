@@ -29,3 +29,4 @@ This project analyzes the Spotify Tracks dataset using SQL. The project contains
 ## Files
 - `spotify_project.pdf` –  Report with queries, results, and observations
 - `dataset.csv` – Dataset used for analysis
+- 'schema.sql'
