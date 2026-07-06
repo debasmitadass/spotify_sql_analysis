@@ -1,0 +1,23 @@
+CREATE TABLE `spotify_tracks` (
+   `id` int DEFAULT NULL,
+   `track_id` varchar(50) DEFAULT NULL,
+   `artists` text,
+   `album_name` text,
+   `track_name` text,
+   `popularity` int DEFAULT NULL,
+   `duration_ms` int DEFAULT NULL,
+   `explicit` varchar(10) DEFAULT NULL,
+   `danceability` float DEFAULT NULL,
+   `energy` float DEFAULT NULL,
+   `track_key` int DEFAULT NULL,
+   `loudness` float DEFAULT NULL,
+   `mode` int DEFAULT NULL,
+   `speechiness` float DEFAULT NULL,
+   `acousticness` float DEFAULT NULL,
+   `instrumentalness` float DEFAULT NULL,
+   `liveness` float DEFAULT NULL,
+   `valence` float DEFAULT NULL,
+   `tempo` float DEFAULT NULL,
+   `time_signature` int DEFAULT NULL,
+   `track_genre` varchar(50) DEFAULT NULL
+ )
